@@ -1,1 +1,1 @@
-First shell script
+Display content of the current directory
